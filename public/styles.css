@@ -1,0 +1,18 @@
+body {
+  background: url(https://gyazo.com/d71bd77fcef4dd0210c5cefcd3515702.png);
+  background-repeat: x-repeat;
+  background-size: contain;
+  font-family: verdana;
+  color: saddlebrown;
+}
+
+h1 {
+  color: darkred;
+  font-family: verdana;
+}
+
+hr {
+  height: 5px;
+  background: hotpink;
+  color: hotpink;
+}
